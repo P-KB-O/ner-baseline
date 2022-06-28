@@ -20,4 +20,4 @@ testing:
 python test.py
 ```
 
-you can get output information in the terminal, and see confusion matrix heatmap plot in `image` dir
+you can get output information in the terminal, and see confusion matrix heatmap plot in `img` dir
